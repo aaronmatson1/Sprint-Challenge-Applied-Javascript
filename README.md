@@ -42,6 +42,8 @@ An event listener is a procedure in JavaScript that waits for an event to occur.
 
 4. Why would we convert a NodeList into an Array?
 
+To get access to .from?
+
 5. What is a component?
 
 Components are the building block to modern application development. A component is made of several parts: HTML, CSS, or JavaScript brought together for reuse in a website or application.
